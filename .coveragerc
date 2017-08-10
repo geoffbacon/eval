@@ -1,7 +1,7 @@
 [run]
 branch = True
-source = eval/*
-include = eval/*
+source = evaluate/*
+include = evaluate/*
 omit = */setup.py
 [report]
-include = eval/*
+include = evaluate/*

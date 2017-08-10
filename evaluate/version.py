@@ -30,19 +30,19 @@ description = "eval: evaluating semantic representations"
 # Long description will go up on the pypi page
 long_description = """
 
-Eval
+Evaluate
 ========
-Eval is a project for evaluating learnt semantic representations.
+Evaluate is a project for evaluating learnt semantic representations.
 
 It contains implementations of both intrinsic and extrinsic evaluation 
 methods and common datasets. For more information, please see the
 repository README_.
 
-.. _README: https://github.com/geoffbacon/eval/blob/master/README.md
+.. _README: https://github.com/geoffbacon/evaluate/blob/master/README.md
 
 License
 =======
-``eval`` is licensed under the terms of the MIT license. See the file
+``evaluate`` is licensed under the terms of the MIT license. See the file
 "LICENSE" for information on the history of this software, terms & conditions
 for usage, and a DISCLAIMER OF ALL WARRANTIES.
 
@@ -51,12 +51,12 @@ All trademarks referenced herein are property of their respective holders.
 Copyright (c) 2017--, Geoff Bacon.
 """
 
-NAME = "eval"
+NAME = "evaluate"
 MAINTAINER = "Geoff Bacon"
 MAINTAINER_EMAIL = "bacon@berkeley.edu"
 DESCRIPTION = description
 LONG_DESCRIPTION = long_description
-URL = "http://github.com/geoffbacon/eval"
+URL = "http://github.com/geoffbacon/evaluate"
 DOWNLOAD_URL = ""
 LICENSE = "MIT"
 AUTHOR = "Geoff Bacon"

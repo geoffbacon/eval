@@ -1,7 +1,7 @@
 lint:
 	@echo "Running pylint"
-	pylint eval
+	pylint evaluate
 
 test:
 	@echo "Running tests"
-	py.test eval
+	py.test evaluate
