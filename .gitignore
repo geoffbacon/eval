@@ -1,6 +1,9 @@
+# Byte-compiled
+__pycache__/
 *.pyc
-*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS
 *.DS_Store
-_build/
-auto_examples/
-gen_api/
