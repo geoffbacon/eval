@@ -6,6 +6,7 @@ This repository holds code to assess learnt semantic representations.
 - Travis CI
 - Docs using Sphinx
 - Add notebooks with examples in scripts/
+- Add all intrinsic datasets (MC and SimLex first)
 
 ### STRUCTURE OF THE REPOSITORY
 - The data directory contains datasets for both intrinsic and extrinsic evaluation methods. Each dataset has its own subdirectory so that it can 
