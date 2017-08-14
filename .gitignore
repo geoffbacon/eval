@@ -10,3 +10,6 @@ __pycache__/
 
 # Test
 .cache/
+
+# Large files
+scripts/*_embeddings
